@@ -1,0 +1,46 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Повышение_квалификации.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="повышение_квалифConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=SSQL-12R2WEB01.client.parking.ru;Initial Catalog=silverha_vpn06;Persist Security Info=True;User ID=silverha_vpn06;Password=x2eceFMnGf&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.OleDb&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=SSQL-12R2WEB01.client.parking.ru;Initial Catalog=silverha_vpn06;Persist Security Info=True;User ID=silverha_vpn06;Password=x2eceFMnGf</Value>
+    </Setting>
+    <Setting Name="повышение_квалифConnectionString1" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=SSQL-12R2WEB01.client.parking.ru;Initial Catalog=silverha_vpn06;Persist Security Info=True;User ID=silverha_vpn06;Password=x2eceFMnGf&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.OleDb&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=SSQL-12R2WEB01.client.parking.ru;Initial Catalog=silverha_vpn06;Persist Security Info=True;User ID=silverha_vpn06;Password=x2eceFMnGf</Value>
+    </Setting>
+    <Setting Name="Курсы_ОбученяConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=DESKTOP-T251EPD\SQLEXPRESS;Initial Catalog=Courses;Integrated Security=True&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=DESKTOP-T251EPD\SQLEXPRESS;Initial Catalog=Courses;Integrated Security=True</Value>
+    </Setting>
+    <Setting Name="ConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=SSQL-12R2WEB01.client.parking.ru;Initial Catalog=silverha_vpn06;Persist Security Info=True;User ID=silverha_vpn06;Password=x2eceFMnGf&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=SSQL-12R2WEB01.client.parking.ru;Initial Catalog=silverha_vpn06;Persist Security Info=True;User ID=silverha_vpn06;Password=x2eceFMnGf</Value>
+    </Setting>
+    <Setting Name="silverha_fkd6qConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=SSQL-12R2WEB01.client.parking.ru;Initial Catalog=silverha_vpn06;Persist Security Info=True;User ID=silverha_vpn06;Password=x2eceFMnGf&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=SSQL-12R2WEB01.client.parking.ru;Initial Catalog=silverha_vpn06;Persist Security Info=True;User ID=silverha_vpn06;Password=x2eceFMnGf</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
